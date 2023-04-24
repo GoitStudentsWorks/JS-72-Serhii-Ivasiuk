@@ -5,7 +5,7 @@
   "homepage": "https://GoitStudentsWorks.github.io/JS-72-Serhii-Ivasiuk",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-72-Serhii-Ivasiuk/"
+    "build": "parcel build src/*.html --public-url /JS-72-Serhii-Ivasiuk"
   },
   "repository": {
     "type": "git",
